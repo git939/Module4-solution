@@ -9,11 +9,7 @@
 
 // DO NOT attach the speakWord variable to the 'helloSpeaker' object.
 (function (window) {
-// #step 2
-
 	var helloSpeaker = {};
-	// #step 3
-
 	var speakWord = "Hello";
 
 // STEP 4: Rewrite the 'speak' function such that it is attached to the
